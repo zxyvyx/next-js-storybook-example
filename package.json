@@ -12,6 +12,7 @@
     "serve-storybook": "serve storybook-static"
   },
   "dependencies": {
+    "@mdx-js/react": "^2.1.5",
     "next": "13.0.6",
     "postcss-loader": "^7.0.2",
     "prop-types": "^15.8.1",
@@ -21,7 +22,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
-    "@mdx-js/react": "^2.1.5",
     "@storybook/addon-actions": "^6.5.14",
     "@storybook/addon-essentials": "^6.5.14",
     "@storybook/addon-interactions": "^6.5.14",
