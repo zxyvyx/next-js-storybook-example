@@ -4,7 +4,7 @@ import Button from '../components/Button';
 <Meta title='ADS Design System/Button' />;
 
 export default {
-  title: 'ADS/Button',
+  title: 'ADS Design System/Button',
   component: Button,
 };
 
